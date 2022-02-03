@@ -22,7 +22,7 @@
 <br />
 <div align="center">
   <a href="https://github.com/dannissim/margin-calculator">
-    <img src="images/extreme_investor_logo.png" alt="Logo" width="80" height="80">
+    <img src="images/logo.png" alt="Logo" width="80" height="80">
   </a>
 
 <h3 align="center">Margin Calculator</h3>
